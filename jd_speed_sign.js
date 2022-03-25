@@ -727,6 +727,7 @@ function invite() {
     "",
     "",
     "/",
+    "",
   ]
   let inviterId = inviterIdArr[Math.floor((Math.random() * inviterIdArr.length))]
   let options = {
